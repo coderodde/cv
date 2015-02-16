@@ -1,6 +1,6 @@
 \documentclass[11pt,a4paper,sans]{moderncv}
 
-\moderncvstyle{casual}
+\moderncvstyle{classic}
 \moderncvcolor{blue}
 \renewcommand{\familydefault}{\sfdefault}
 \nopagenumbers{}
@@ -32,23 +32,35 @@
 \cvitem{Lyhyt kuvaus}{Tutkielmassa tutkistelin erilaisia polunhakualgoritmeja ja tapoja, joilla haku voidaan nopeuttaa, kuten esimerkiksi kaksisuuntaisuus, heuristinen haku, verkon esikäsittely ja rinnakkaisuus. Arvosana: 4/5.}
 \cvitem{Osoite}{https://github.com/coderodde/bsc-thesis/blob/master/tutkielma.pdf?raw=true}
 
+\section{Työkokemus}
+
+\cventry{9.2009--4.2010}{Henkilökohtainen avustaja}{Vantaan kaupunki}{Vantaa}{}{
+Olen käynyt kaupassa, siivonut ja laitanut ruokaa vammaisen miehen puolesta.}
+\cventry{5.2009--9.2009}{Käyttöasentaja}{Oy VR-Rata Ab Kiskohitsaamo}{Kouvola}{}{Kiskosahan laitteiston operointia.}
+\cventry{6.2008--9.2008}{Kesätyölainen}{Oy VR-Rata Ab Kiskohitsaamo}{Kouvola}{}{Paljon vaihtelua työtehtävissä ensimmäiset kaksi työviikkoa, joiden jälkeen olen pääsyt operoimaan kiskosahaa.}
+\cventry{4.2007--6.2007}{Talonmies}{Nuorten Kuntoutus Nurku Oy}{Kotka}{}{Olen hoitanut pihaa ja taloa. Olen tehnyt puutarha- ja puutöitä myös.}
+
+
 \section{Kielitaito}
 
-\cvitemwithcomment{Englanti}{sujuva}{}
-\cvitemwithcomment{Suomi}{sujuva}{}
+\cvitemwithcomment{Englanti}{erinomainen}{}
+\cvitemwithcomment{Suomi}{erinomainen}{}
 \cvitemwithcomment{Venäjä}{äidinkieli}{}
 
 \section{Tekniset taidot}
-\cvitem{Edistynyt}{\textsc{Java}, \LaTeX, \textsc{C}}
-\cvitem{Hyvä}{\textsc{Javascript, HTML5, CSS}}
-\cvitem{Perustaso}{\textsc{C++}}
+\cvitem{Edistynyt}{Java, \LaTeX, C}
+\cvitem{Hyvä}{Javascript, HTML5, CSS}
+\cvitem{Perustaso}{C++}
 
 \section{Tekniset kiinnostuksen kohteet}
 \begin{itemize}
+\item Yksikkö- ja integraatiotestaaminen,
+\item back-end -kehittäminen,
 \item verkkoalgoritmit,
 \item optimointialgoritmit,
 \item tietorakenteet,
-\item koneoppiminen.
+\item koneoppiminen,
+\item analytiikka.
 \end{itemize}
 
 \section{Julkaisut}
@@ -56,11 +68,11 @@
 
 \section{Portfolio}
 
-\cvitem{\href{http://www.cs.helsinki.fi/u/rodionef/pacman/}{Javascript PacMan}}{Javascript-kurssin puiteissa toteutettu klooni}
-\cvitem{\href{http://www.cs.helsinki.fi/u/rodionef/hide/Battleships/dist/Battleships.jar}{Java Battleships}}{Ohjelmoinnin harjoitustyökurssin tulos}
-\cvitem{\href{https://github.com/biblex2013/biblex}{biblex}}{Ohjelmistotuotantokurssilla toteutettu BiBLeX-viiteiden hallintaohjelmisto}
-\cvitem{\href{http://t-rodionef.users.cs.helsinki.fi/multilog/}{multilog}}{Tietokantasovelluskurssilla toteutettu keskustelufoorumi}
-\cvitem{\href{https://github.com/coderodde/parallelsort}{Parallel radix sort}}{Jo kahden suorittimen koneella lajittelee noin 5 kertaa nopeammin kuin \texttt{java.util.Arrays.sort}}
+\cvitem{\href{http://www.cs.helsinki.fi/u/rodionef/pacman/}{Javascript PacMan}}{Javascript-kurssin puiteissa toteutettu klooni. Toistaa alkuperäisen pelin grafiikat lähes täysin.}
+\cvitem{\href{http://www.cs.helsinki.fi/u/rodionef/hide/Battleships/dist/Battleships.jar}{Java Battleships}}{Ohjelmoinnin harjoitustyökurssin tulos. Osaa talentaa keskeneräisen pelin tilan ja palauttaa sen ensi käyttökerralla.}
+\cvitem{\href{https://github.com/biblex2013/biblex}{biblex}}{Ohjelmistotuotantokurssilla toteutettu BiBLeX-viiteiden hallintaohjelmisto, joka tallentaa SQLite-tietokantaan. Mahdollistaa viiteiden lisäämisen, muokkaamisen, poistaamisen ja viemisen BiBTeX-formaatissa.}
+\cvitem{\href{http://t-rodionef.users.cs.helsinki.fi/multilog/}{multilog}}{Tietokantasovelluskurssilla toteutettu keskustelufoorumi. Tukee kolmen käyttäjäkategorian hierarkian, ilmoittaa käyttäjälle uusista viesteistä, tukee viestien merkintää (esim. tekstin lihavointi, jne.), ja osaa korjata epävalidin merkinnän. Itse foorumi on jaettu aiheisiin, joista kukin sisältää useamman viestisäikeen.}
+\cvitem{\href{https://github.com/coderodde/parallelsort}{Parallel radix sort}}{Ajassa $\Theta(N/P)$ käyvä, rinnakkainen kantalukulajittelu. Jo kahden suorittimen koneella ($P = 2$) lajittelee noin 5 kertaa nopeammin kuin \texttt{java.util.Arrays.sort}}
 \cvitem{\href{https://github.com/coderodde/ACM-DL-Crawler}{ACM DL Crawler}}{Monisäikeinen crawleri, joka kerää tutkijoiden yhteistyöverkoston (engl. ``collaboration graph'')}
 \cvitem{\href{https://github.com/coderodde/lce}{Loan cut equilibrium framework}}{Ainoaan julkaisuuni liittyvä pieni framework}
 \cvitem{\href{http://codereview.stackexchange.com/users/58360/coderodde}{coderodde at Code Review}}{muuta alaan liittyvää toimintaa}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.19)  16 FEB 2015 13:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.19)  16 FEB 2015 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -382,10 +382,6 @@ tter compatibility patches
 \cvcolumnautowidth=\skip63
 \bibindent=\skip64
 )
-(/usr/local/texlive/2013/texmf-dist/tex/latex/moderncv/moderncvstylecasual.sty
-Package: moderncvstylecasual 2013/04/29 v1.5.1 modern curriculum vitae and lett
-er style scheme: casual
-
 (/usr/local/texlive/2013/texmf-dist/tex/latex/moderncv/moderncvstyleclassic.sty
 Package: moderncvstyleclassic 2013/04/29 v1.5.1 modern curriculum vitae and let
 ter style scheme: classic
@@ -677,17 +673,6 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 68.
 \cvitemwithcommentmainbox=\box50
 \cvitemwithcommentmainlength=\skip75
 \cvitemwithcommentcommentlength=\skip76
-)
-(/usr/local/texlive/2013/texmf-dist/tex/latex/moderncv/moderncviconsawesome.sty
-Package: moderncviconsawesome 2013/04/29 v1.5.1 modern curriculum vitae and let
-ter icons: awesome
-WARNING: to use the awesome icon set, please use XeTeX or LuaTeX to compile you
-r document; switching to the marvosym icon set.
-)
-\footerbox=\box51
-\footertempbox=\box52
-\footerwidth=\skip77
-\footerboxwidth=\skip78
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/moderncv/moderncvcolorblue.sty
 Package: moderncvcolorblue 2013/04/29 v1.5.1 modern curriculum vitae and letter
  color scheme: blue
@@ -849,7 +834,7 @@ Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip79
+\Hy@SectionHShift=\skip77
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 21.
 
@@ -895,7 +880,7 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count156
 \scratchdimen=\dimen194
-\scratchbox=\box53
+\scratchbox=\box51
 \nofMPsegments=\count157
 \nofMParguments=\count158
 \everyMPshowfont=\toks31
@@ -972,7 +957,7 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box54
+\AtBeginShipoutBox=\box52
 Package hyperref Info: Link coloring OFF on input line 21.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -990,8 +975,25 @@ LaTeX Info: Redefining \nameref on input line 21.
 \@outlinefile=\write4
 \openout4 = `RodionEfremovCVFinnish.out'.
 
-\makecvtitlepicturebox=\box55
-\makecvtitlepicturewidth=\skip80
+\makecvtitledetailsbox=\box53
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 22.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 22.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 22.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-mvs.cfg
+File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
+)
+\makecvtitlepicturebox=\box54
+\makecvtitledetailswidth=\skip78
+\makecvtitlepicturewidth=\skip79
 
 Underfull \hbox (badness 10000) in paragraph at lines 22--22
 
@@ -999,10 +1001,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--22
 
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 24.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
-)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
@@ -1012,53 +1010,26 @@ Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 29.
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 35.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 44.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 37.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 41.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 42.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-
-LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 42.
-
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/lmr/m/sc/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
+(babel)             in language  on input line 50.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 46.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/microtype/mt-mvs.cfg
-File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
-)
+(babel)             in language  on input line 55.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 54.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 56.
-
-(/usr/local/texlive/2013/texmf-dist/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 56.
-
-
-Package Fancyhdr Warning: \footskip is too small (30.0pt): 
- Make it at least 50.31998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
+(babel)             in language  on input line 58.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 56.
-Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 56.
-[1
+(babel)             in language  on input line 58.
+ [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 57.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 63.
+(babel)             in language  on input line 66.
+Package babel Info: Redefining finnish shorthand "|
+(babel)             in language  on input line 69.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 75.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1067,56 +1038,46 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Underfull \hbox (badness 1824) in paragraph at lines 63--63
-[]\T1/lmss/m/n/10.95 (+20) Jo kah-den suo-rit-ti-men ko-neel-la la-jit-te-lee n
-oin 5 ker-taa no-peam-min kuin
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
-
-Package Fancyhdr Warning: \footskip is too small (30.0pt): 
- Make it at least 50.31998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 68.
+(babel)             in language  on input line 80.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 68.
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
- (./RodionEfremovCVFinnish.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 68.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
+(babel)             in language  on input line 80.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
+
+(./RodionEfremovCVFinnish.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 80.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
 Package rerunfilecheck Info: File `RodionEfremovCVFinnish.out' has not changed.
 
-(rerunfilecheck)             Checksum: 2C7B297EC2D31E1A3176C1BF4787A501;815.
+(rerunfilecheck)             Checksum: F1D792367E7A15C6E43EE47B148E0939;911.
  ) 
 Here is how much of TeX's memory you used:
- 25876 strings out of 493315
- 450412 string characters out of 6137904
- 537610 words of memory out of 5000000
- 28833 multiletter control sequences out of 15000+600000
- 59583 words of font info for 62 fonts, out of 8000000 for 9000
+ 25837 strings out of 493315
+ 449098 string characters out of 6137904
+ 538045 words of memory out of 5000000
+ 28797 multiletter control sequences out of 15000+600000
+ 67907 words of font info for 73 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 77i,12n,61p,788b,610s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,11n,59p,788b,610s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/20
-13/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2013/texmf-
-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2013/texmf-dist/fonts
-/type1/public/lm/lmss12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pub
-lic/lm/lmss17.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lms
-s8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><
-/usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/loca
-l/texlive/2013/texmf-dist/fonts/type1/public/lm/lmsso17.pfb></usr/local/texlive
-/2013/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2013/texm
-f-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2013/texmf-dist/fon
-ts/type1/public/marvosym/marvosym.pfb>
-Output written on RodionEfremovCVFinnish.pdf (2 pages, 201133 bytes).
+texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/20
+13/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/local/texlive/2013/texmf-dist/
+fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type
+1/public/lm/lmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm
+/lmss10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmss12.pf
+b></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/lo
+cal/texlive/2013/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive
+/2013/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2013/te
+xmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2013/texmf-dist/
+fonts/type1/public/lm/lmsso17.pfb></usr/local/texlive/2013/texmf-dist/fonts/typ
+e1/public/lm/lmtt10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
+marvosym/marvosym.pfb>
+Output written on RodionEfremovCVFinnish.pdf (2 pages, 204562 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
- 10 named destinations out of 1000 (max. 500000)
- 19525 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 125 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 11 named destinations out of 1000 (max. 500000)
+ 18509 words of extra memory for PDF output out of 20736 (max. 10000000)
 
