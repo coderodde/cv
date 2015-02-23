@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.19)  16 FEB 2015 16:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.19)  18 FEB 2015 15:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -84,7 +84,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (/usr/local/texlive/2013/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 12--15
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
 
  []
 
@@ -95,16 +95,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--15
 Here is how much of TeX's memory you used:
  1385 strings out of 493315
  17844 string characters out of 6137904
- 80011 words of memory out of 5000000
+ 79011 words of memory out of 5000000
  4881 multiletter control sequences out of 15000+600000
  6675 words of font info for 24 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,6n,23p,901b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,6n,23p,343b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmr17.pfb>
-Output written on Esittelykirje.pdf (1 page, 40416 bytes).
+Output written on Esittelykirje.pdf (1 page, 39501 bytes).
 PDF statistics:
  20 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream
