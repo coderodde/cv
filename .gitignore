@@ -1,7 +1,7 @@
 cv_10.zip
-RodionEfremovCV.aux
-RodionEfremovCV.bcf
-RodionEfremovCV.log
-RodionEfremovCV.out
-RodionEfremovCV.run.xml
-RodionEfremovCV.synctex.gz
+*.aux
+*.bcf
+*.log
+*.out
+*.run.xml
+*.synctex.gz
