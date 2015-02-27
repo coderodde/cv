@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.19)  23 FEB 2015 13:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.19)  27 FEB 2015 14:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1030,28 +1030,28 @@ Package babel Info: Redefining finnish shorthand "|
 Package babel Info: Redefining finnish shorthand "|
 (babel)             in language  on input line 69.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 83.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 86.
+(babel)             in language  on input line 85.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 88.
 Package babel Info: Redefining finnish shorthand "|
-(babel)             in language  on input line 86.
+(babel)             in language  on input line 88.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 86.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
 
 (./RodionEfremovCVFinnish.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 86.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
 Package rerunfilecheck Info: File `RodionEfremovCVFinnish.out' has not changed.
 
 (rerunfilecheck)             Checksum: 1F7F31C94BFC42C15AE7893D974C3BC2;1019.
  ) 
 Here is how much of TeX's memory you used:
- 25790 strings out of 493315
- 448330 string characters out of 6137904
+ 25792 strings out of 493315
+ 448354 string characters out of 6137904
  538045 words of memory out of 5000000
  28757 multiletter control sequences out of 15000+600000
- 64716 words of font info for 70 fonts, out of 8000000 for 9000
+ 64817 words of font info for 71 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  70i,12n,59p,788b,610s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
@@ -1062,10 +1062,10 @@ type1/public/lm/lmssbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pu
 blic/lm/lmsso10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/lm/l
 msso17.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/marvosym/marv
 osym.pfb>
-Output written on RodionEfremovCVFinnish.pdf (2 pages, 148855 bytes).
+Output written on RodionEfremovCVFinnish.pdf (2 pages, 149031 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
+ 107 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
  12 named destinations out of 1000 (max. 500000)
  17493 words of extra memory for PDF output out of 20736 (max. 10000000)
 
